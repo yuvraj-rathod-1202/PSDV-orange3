@@ -57,3 +57,4 @@ include: ['_pages']
 
 navbar_fixed: true
 footer_fixed: false
+
