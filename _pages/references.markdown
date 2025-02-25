@@ -32,8 +32,8 @@ permalink: /references
 1. **[YouTube Playlist: Orange3 Tutorials](https://youtube.com/playlist?list=PLYW0LRZ3ePo5jW_mhbvHV5ciNkhe61dTT&si=EKN2meVgaV3-G2VY)**  
    - Beginner to advanced video tutorials  
 
-2. **[Orange3 User Manual](https://orangedatamining.com/user-manual/)**  
-   - Step-by-step guide for using Orange  
+2. **[Orange3 Widget Catalog](https://orangedatamining.com/widget-catalog/)**  
+   - Guide for widget catalog in Orange
 
 3. **[DataCamp: Data Analysis with Orange3](https://www.datacamp.com/)** _(Paid)_  
    - Hands-on learning with exercises  
