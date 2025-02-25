@@ -67,3 +67,8 @@ Click "Finish" to complete the installation.
 ### Step 16: Open Orange
 ![Step 16: Finalize and Restart](../assets/installationandsetup/16.jpg)
 The Orange interface will now appear.
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <a href="/PSDV-orange3/" style="text-decoration: none;">⬅️ Introduction</a>
+  <a href="/PSDV-orange3/keyFeature" style="text-decoration: none;">Key Features ➡️</a>
+</div>
