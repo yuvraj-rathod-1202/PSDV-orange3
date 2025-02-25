@@ -93,6 +93,7 @@ These tools help users clean their datasets and improve the accuracy of their mo
 ---
 
 <br />
+
 * **Load and edit your data in the File widget.**
 
 ![](../assets/screenshots/1.png)
