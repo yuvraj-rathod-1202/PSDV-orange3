@@ -63,3 +63,5 @@ nav:
     url: /installation/
   - title: Screenshots
     url: /screenshots
+  - title: Use Cases
+    url: /usecases
