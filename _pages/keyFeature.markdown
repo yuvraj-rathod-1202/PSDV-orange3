@@ -1,8 +1,4 @@
----
-layout: page
-title: Key Feature
-permalink: /keyFeature
----
+
 
 Orange is a powerful and user-friendly tool to visualize data without writing any code. Its drag-and-drop feature makes it easy to use for beginners, and its different features make it very useful. There are different widgets that we can use. Here are some of the key features that make Orange a valuable tool for data analysis, machine learning models, etc.
 

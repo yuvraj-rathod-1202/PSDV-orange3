@@ -60,9 +60,9 @@ navbar_fixed: true
 footer_fixed: false
 
 nav:
-  - title: Installations and Setup
-    url: /installation
-  - title: Screenshots
-    url: /screenshots
-  - title: Use Cases
-    url: /usecases
+  - title: Blog
+    url: /
+  - title: About
+    url: /about
+  
+ 
