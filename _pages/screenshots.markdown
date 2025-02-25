@@ -19,24 +19,11 @@ permalink: /screenshots
 
 ![](../assets/screenshots/3.jpg)
 
-* **Orange can suggest which widget to add to the workflow**
-
-![](../assets/screenshots/4.jpg)
-
-
-* **Join two data sets**
-
-![](../assets/screenshots/4.png)
 
 
 * **Heatmap visualisation**
 
 ![](../assets/screenshots/5.jpg)
-
-
-* **Data can contain references to images**
-
-![](../assets/screenshots/6.png)
 
 
 * **Playing with Paint Data and an automatic selection of clusters in k-Means**
