@@ -36,3 +36,9 @@ Orange provides many widgets to filter and refine data, making it more convenien
 - **Data transformation**
 
 These tools help users clean their datasets and improve the accuracy of their models.
+
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <a href="/PSDV-orange3/installation" style="text-decoration: none;">⬅️ Installation & Setup</a>
+  <a href="/PSDV-orange3/keyFeature" style="text-decoration: none;">Key Features ➡️</a>
+</div>
