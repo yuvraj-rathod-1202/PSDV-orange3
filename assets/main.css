@@ -1,0 +1,46 @@
+/* Minima Default Header */
+.site-header {
+  background-color: #fff;
+  border-bottom: 1px solid #e8e8e8;
+  padding: 1rem;
+  text-align: center;
+}
+
+.site-title {
+  font-size: 1.75rem;
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+}
+
+/* Navigation Bar */
+.site-nav {
+  float: right;
+}
+
+.site-nav .menu-icon {
+  display: none;
+}
+
+.site-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.site-nav ul li {
+  margin: 0 15px;
+}
+
+.site-nav ul li a {
+  color: #555;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.site-nav ul li a:hover,
+.site-nav ul li a.current {
+  color: #d23669; /* Minima's pink */
+}
