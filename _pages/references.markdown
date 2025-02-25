@@ -29,7 +29,7 @@ permalink: /references
 
 ## 🎓 Tutorials & Courses
 
-1. **[YouTube Playlist: Orange3 Tutorials](https://www.youtube.com/playlist?list=PLGiD37sGf8FNqRdzFLvlXHtmo80TxObxF)**  
+1. **[YouTube Playlist: Orange3 Tutorials](https://youtube.com/playlist?list=PLYW0LRZ3ePo5jW_mhbvHV5ciNkhe61dTT&si=EKN2meVgaV3-G2VY)**  
    - Beginner to advanced video tutorials  
 
 2. **[Orange3 User Manual](https://orangedatamining.com/user-manual/)**  
@@ -64,7 +64,7 @@ permalink: /references
 2. **[Stack Overflow (Orange3 Tag)](https://stackoverflow.com/questions/tagged/orange3)**  
    - Get help from developers  
 
-3. **[Orange3 Discord Community](https://discord.gg/orangedatamining)** _(If available)_  
+3. **[Orange3 Discord Community](https://discord.gg/orangedatamining)** 
    - Real-time discussions with users  
 
 ---
