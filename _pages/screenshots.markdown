@@ -61,8 +61,3 @@ permalink: /screenshots
 ![](../assets/screenshots/13.png)
 
 
-
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <a href="/PSDV-orange3/keyFeature" style="text-decoration: none; font-size: large;">⬅️ Key Features</a>
-  <a href="/PSDV-orange3/usecases" style="text-decoration: none; font-size: large;">Use Cases ➡️</a>
-</div>
