@@ -23,9 +23,7 @@ permalink: /references
 3. **[Orange3 GitHub Repository](https://github.com/biolab/orange3)**  
    - Source code and development updates  
    - Contribution guidelines  
-
-4. **[Orange3 Add-ons](https://orangedatamining.com/addons/)**  
-   - Install additional features and widgets  
+ 
 
 ---
 
