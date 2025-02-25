@@ -4,6 +4,23 @@ title: Screenshots
 permalink: /screenshots
 ---
 
+* **Load and edit your data in the File widget.**
+
+![](../assets/screenshots/1.png)
+
+
+
+* **Select columns and make it target or ignore columns**
+
+![](../assets/screenshots/2.jpg)
+
+
+* **ploring Various Features in Scatter Plots: Regression Line, Axis Selection, and Color Encoding**
+
+![](../assets/screenshots/3.jpg)
+
+
+
 
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
