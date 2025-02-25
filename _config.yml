@@ -61,7 +61,7 @@ footer_fixed: false
 
 nav:
   - title: Installations and Setup
-    url: /installation/
+    url: /installation
   - title: Screenshots
     url: /screenshots
   - title: Use Cases
