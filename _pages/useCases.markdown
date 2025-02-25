@@ -23,6 +23,6 @@ Orange helps in medical research by analyzing patient records, genomic data, and
 Its bioinformatics add-ons make it an excellent tool for studying biological data.
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <a href="/PSDV-orange3/screenshots" style="text-decoration: none;">⬅️ Screenshots</a>
-  <a href="/PSDV-orange3/conclusion" style="text-decoration: none;">Conclusion ➡️</a>
+  <a href="/PSDV-orange3/screenshots" style="text-decoration: none; font-size: large;">⬅️ Screenshots</a>
+  <a href="/PSDV-orange3/conclusion" style="text-decoration: none; font-size: large;">Conclusion ➡️</a>
 </div>

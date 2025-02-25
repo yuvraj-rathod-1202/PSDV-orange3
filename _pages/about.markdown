@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About Us  
+ 
 
 We are **Group J031** for the **Probability, Statistics, and Data Visualization** course (**ES 114**).  
 

@@ -69,6 +69,6 @@ Click "Finish" to complete the installation.
 The Orange interface will now appear.
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <a href="/PSDV-orange3/" style="text-decoration: none;">⬅️ Introduction</a>
-  <a href="/PSDV-orange3/keyFeature" style="text-decoration: none;">Key Features ➡️</a>
+  <a href="/PSDV-orange3/" style="text-decoration: none; font-size: large;">⬅️ Introduction</a>
+  <a href="/PSDV-orange3/keyFeature" style="text-decoration: none; font-size: large;">Key Features ➡️</a>
 </div>

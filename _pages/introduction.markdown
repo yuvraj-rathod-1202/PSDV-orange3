@@ -12,4 +12,4 @@ The drag-and-drop interface makes it easy for anyone to explore a dataset, build
 We'll take you step by step from installing and getting started with Orange.
 By the end of this blog, you’ll have a solid understanding of how Orange can help you unlock the potential of your data, making data science more accessible and efficient than ever before.
 
-<a href="/PSDV-orange3/installation" style="display: block; text-align: right;"> Installation & Setup ➡️ </a>
+<a href="/PSDV-orange3/installation" style="display: block; text-align: right; font-size: large;"> Installation & Setup ➡️ </a>

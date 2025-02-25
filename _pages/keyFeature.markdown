@@ -39,6 +39,6 @@ These tools help users clean their datasets and improve the accuracy of their mo
 
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <a href="/PSDV-orange3/installation" style="text-decoration: none;">⬅️ Installation & Setup</a>
-  <a href="/PSDV-orange3/screenshots" style="text-decoration: none;">Screenshots ➡️</a>
+  <a href="/PSDV-orange3/installation" style="text-decoration: none; font-size: large;">⬅️ Installation & Setup</a>
+  <a href="/PSDV-orange3/screenshots" style="text-decoration: none; font-size: large;">Screenshots ➡️</a>
 </div>

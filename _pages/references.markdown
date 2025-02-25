@@ -17,7 +17,7 @@ permalink: /references
    - Download and installation guides  
 
 2. **[Official Documentation](https://orangedatamining.com/docs/)**  
-   - Tutorials and how-to guides  
+   - Tutorials and References  
    - Widget descriptions and workflows  
 
 3. **[Orange3 GitHub Repository](https://github.com/biolab/orange3)**  
@@ -95,5 +95,5 @@ permalink: /references
 
 
 <div style="display: flex; justify-content: space-between; width: 100%; top: 5px;">
-  <a href="/PSDV-orange3/conclusion" style="text-decoration: none;">⬅️ Conclusion</a>
+  <a href="/PSDV-orange3/conclusion" style="text-decoration: none; font-size: large;">⬅️ Conclusion</a>
 </div>
