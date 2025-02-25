@@ -58,27 +58,25 @@ permalink: /references
 
 ## 🛠 Community & Support
 
-1. **[Orange3 Forum](https://forum.biolab.si/)**  
+1. **[Orange3 Forum](https://discord.com/invite/FWrfeXV)**
    - Ask questions and share ideas  
 
 2. **[Stack Overflow (Orange3 Tag)](https://stackoverflow.com/questions/tagged/orange3)**  
    - Get help from developers  
 
-3. **[Orange3 Discord Community](https://discord.gg/orangedatamining)** 
-   - Real-time discussions with users  
+  
 
 ---
 
 ## 📄 Research Papers & Advanced Reading
 
-1. **[Orange: Data Mining Toolbox in Python](https://arxiv.org/pdf/1109.3557.pdf)**  
-   - Original research paper on Orange  
-
-2. **[Machine Learning Using Orange3](https://www.sciencedirect.com/science/article/pii/S1877050919313385)**  
+1. **[Machine Learning Using Orange3](https://www.sciencedirect.com/science/article/pii/S1877050919313385)**  
    - Use cases in scientific research  
 
-3. **[Automated Machine Learning with Orange3](https://link.springer.com/article/10.1007/s10462-019-09769-4)**  
+2. **[Automated Machine Learning with Orange3](https://link.springer.com/article/10.1007/s10462-019-09769-4)**  
    - AutoML capabilities in Orange  
+
+3. **[Detection and classification of pneumonia using the Orange3data mining tool](https://www.researchgate.net/profile/Areen-Arabiat/publication/384599266_Detection_and_classification_of_pneumonia_using_the_Orange3_data_mining_tool/links/670226eb9e6e82486f055491/Detection-and-classification-of-pneumonia-using-the-Orange3-data-mining-tool.pdf)**
 
 ---
 
