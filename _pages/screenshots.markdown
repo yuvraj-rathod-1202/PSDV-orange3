@@ -19,57 +19,57 @@ permalink: /screenshots
 
 ![](../assets/screenshots/3.jpg)
 
-* **h**
+* **Orange can suggest which widget to add to the workflow**
 
 ![](../assets/screenshots/4.jpg)
 
 
-* **h**
+* **Join two data sets**
 
 ![](../assets/screenshots/4.png)
 
 
-* **h**
+* **Heatmap visualisation**
 
 ![](../assets/screenshots/5.jpg)
 
 
-* **h**
+* **Data can contain references to images**
 
 ![](../assets/screenshots/6.png)
 
 
-* **h**
+* **Playing with Paint Data and an automatic selection of clusters in k-Means**
 
 ![](../assets/screenshots/7.png)
 
 
-* **h**
+* **Multidimensional scaling of Zoo data set reveals phylogeny groups**
 
 ![](../assets/screenshots/8.png)
 
 
-* **h**
+* **Receiver operating characteristics (ROC) analysis**
 
 ![](../assets/screenshots/9.png)
 
 
-* **h**
+* **Data preprocessing embedded within a learning algorithm**
 
 ![](../assets/screenshots/10.png)
 
 
-* **h**
+* **Finding common misclassifications of three predictive models**
 
 ![](../assets/screenshots/11.png)
 
 
-* **h**
+* **Interactive gradient descent**
 
 ![](../assets/screenshots/12.png)
 
 
-* **h**
+* **Model testing and scoring on a separate test data set**
 
 ![](../assets/screenshots/13.png)
 
