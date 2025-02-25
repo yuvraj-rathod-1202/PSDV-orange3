@@ -31,7 +31,3 @@ Select your desired installation location and click "Next".
 Click "Finish" to complete the installation.
 
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <a href="/PSDV-orange3/" style="text-decoration: none;">⬅️ Introduction</a>
-  <a href="/PSDV-orange3/keyFeature" style="text-decoration: none;">Key Features ➡️</a>
-</div>
