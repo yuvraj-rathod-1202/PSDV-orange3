@@ -49,7 +49,7 @@ permalink: /references
    - Preloaded datasets for testing  
 
 2. **[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)**  
-   - Public datasets compatible with Orange  
+   - Public datasets compatible with Orange
 
 3. **[Kaggle Datasets](https://www.kaggle.com/datasets)**  
    - Real-world datasets for analysis  
